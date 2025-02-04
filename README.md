@@ -1,3 +1,3 @@
 # divyavipparla911.github.io
 
-# repoaitory for CS696A
+# repository for CS696A
